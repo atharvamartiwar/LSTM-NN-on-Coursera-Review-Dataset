@@ -1,4 +1,5 @@
 # LSTM-NN-on-Coursera-Review-Dataset
+Notebook Link : https://www.kaggle.com/code/atharvamartiwar/tokenizer-bow-tfidf-using-lstm-nn#RELU-+-RELU-+-SIGMOID <br>
 We used TFIDF and BOW as the Vectorization Techniques for converting the Textual Data into numerical Data . With our input variable as the Review and prediction variable as Rating we applied LSTM (Long-Short-Term-Memory) model , ANN (artificial neural networks with different layers and different activation function). Then we compared the accuracies of these models .
 In brief we used 
 1. TFIDF->LSTM (73.8%)
